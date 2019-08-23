@@ -8,6 +8,8 @@ A script to remove all [votes](https://help.trello.com/article/788-voting-on-car
 - Set environment variables `TRELLO_KEY` and `TRELLO_TOKEN`
 - Install dependencies: `pip install -r requirements.txt`
 
+The script requires Python 3.
+
 ## Usage
 
 List all boards along with their IDs:
